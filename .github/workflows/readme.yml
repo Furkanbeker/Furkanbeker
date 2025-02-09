@@ -1,0 +1,18 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Her gece 00:00'da otomatik güncelle
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          curl -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" \
+          "https://github-readme-stats.vercel.app/api?username=furkanbeker&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" > README.md
