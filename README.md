@@ -1,9 +1,11 @@
 # Furkan Beker's GitHub Profile
 
-👋 **About Me**
-
+👋 **About Me**  
 Hello! I'm Furkan Beker, a passionate EEE engineer with a love for learning new technologies and solving complex problems.
 
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanbeker&show_icons=true&theme=dark)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanbeker&layout=compact&theme=dark)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanbeker&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="Furkan's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanbeker&layout=compact&theme=dark&hide_border=true&count_private=true" /></a> |
-| ------------- | ------------- |
+🏆 **GitHub Profile Trophy**  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=furkanbeker&theme=darkhub)
