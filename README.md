@@ -6,7 +6,6 @@ Hello! I'm Furkan Beker, a passionate EEE engineer with a love for learning new 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkanbeker&show_icons=true&theme=dark" width="55%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanbeker&layout=compact&theme=dark" width="42%" />
 </div>
 
