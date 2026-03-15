@@ -20,6 +20,7 @@ Wireless Communication Researcher • SDR • RIS • Localization
 <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/GNU%20Radio-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Verilog-black?style=for-the-badge&logo=mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
 </p>
 
