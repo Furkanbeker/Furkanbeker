@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Furkan Beker</h1>
 
 <p align="center">
-Wireless Communication Researcher • SDR • RIS • Localization
+Wireless Communication Researcher • SDR • RIS • NTN • Localization
 </p>
 
 ---
