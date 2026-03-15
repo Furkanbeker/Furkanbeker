@@ -40,7 +40,7 @@ Wireless Communication Researcher • SDR • RIS • NTN • Localization
 Receiver-centric localization framework using **DAB signals of opportunity**.
 
 ### RIS Secure Transmission Simulation
-Simulation framework for **RIS-assisted secure wireless transmission** using artificial noise and element allocation.
+**RIS-assisted secure wireless transmission** using artificial noise and element allocation.
 
 ### SDR Signal Processing Tools
 MATLAB / Python based signal processing tools for **wireless communication experiments**.
