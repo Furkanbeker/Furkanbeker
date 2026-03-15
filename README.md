@@ -10,6 +10,7 @@ Wireless Communication Researcher • SDR • RIS • NTN • Localization
 
 - **DAB-based Signals of Opportunity (SoOP) Localization**
 - **RIS-assisted Secure Wireless Communications**
+- **Non-Terrestrial Networks (NTN) THZ - ISL - ISAC**
 - **SDR-based Experimental Wireless Systems**
 - **TDOA Localization with SDR platforms**
 
