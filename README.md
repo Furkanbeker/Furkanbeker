@@ -31,7 +31,6 @@ Wireless Communication Researcher • SDR • RIS • Localization
 - Wideband RF Signal Processing
 - Wireless Channel Measurements
 
-</p>
 ---
 
 ## Projects
