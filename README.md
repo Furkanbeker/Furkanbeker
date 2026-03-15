@@ -67,9 +67,9 @@ MATLAB / Python based signal processing tools for **wireless communication exper
 - Secure Wireless Communication  
 - Signal Processing  
 
----
+%---
 
-## Publications
+%## Publications
 
-- RIS-Assisted Secure Transmission with Artificial Noise (2026)
-- DAB-Based SoOP Localization for UAV Systems (2026)
+%- RIS-Assisted Secure Transmission with Artificial Noise (2026)
+%- DAB-Based SoOP Localization for UAV Systems (2026)
