@@ -68,7 +68,7 @@ MATLAB / Python based signal processing tools for **wireless communication exper
 - Secure Wireless Communication  
 - Signal Processing  
 
-%---
+---
 
 ## Publications
 
