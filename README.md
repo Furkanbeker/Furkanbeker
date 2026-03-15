@@ -19,8 +19,8 @@ Wireless Communication Researcher • SDR • RIS • Localization
 <p>
 <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
 <img src="https://img.shields.io/badge/GNU%20Radio-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
 </p>
 
 ### SDR Platforms
@@ -71,20 +71,5 @@ MATLAB / Python based signal processing tools for **wireless communication exper
 
 ## Publications
 
-*(coming soon)*
-
 - RIS-Assisted Secure Transmission with Artificial Noise (2026)
 - DAB-Based SoOP Localization for UAV Systems (2026)
-
----
-
-## Contact
-
-- LinkedIn: *(ekleyebilirsin)*
-- Email: *(istersen ekle)*
-
----
-
-## GitHub Contribution Snake
-
-![snake gif](https://github.com/Furkanbeker/Furkanbeker/blob/output/github-contribution-grid-snake.svg)
