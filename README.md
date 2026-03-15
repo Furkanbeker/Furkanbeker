@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furkan Beker</h1>
+<h1 align="center">Hi , I'm Furkan Beker</h1>
 
 <p align="center">
 Wireless Communication Researcher • SDR • RIS • Localization
@@ -6,48 +6,52 @@ Wireless Communication Researcher • SDR • RIS • Localization
 
 ---
 
-## 🔬 Current Research
+## Current Research
 
-- 📡 **DAB-based Signals of Opportunity (SoOP) Localization**
-- 📶 **RIS-assisted Secure Wireless Communications**
-- 🛰 **SDR-based Experimental Wireless Systems**
-- 📍 **TDOA Localization with SDR platforms**
+- **DAB-based Signals of Opportunity (SoOP) Localization**
+- **RIS-assisted Secure Wireless Communications**
+- **SDR-based Experimental Wireless Systems**
+- **TDOA Localization with SDR platforms**
 
 ---
-
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 <p>
+
 <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/GNU%20Radio-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
 <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/GNU%20Radio-green?style=for-the-badge"/>
+
 </p>
 
-### 📡 SDR Platforms
+### SDR Platforms
 
-- ADALM Pluto SDR
-- USRP SDR
-- Wideband RF Signal Processing
-- Wireless Channel Measurements
+<p>
 
+<img src="https://img.shields.io/badge/ADALM%20Pluto-SDR-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/USRP-SDR-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireless%20Localization-TDOA-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RIS-Wireless%20Research-red?style=for-the-badge"/>
+
+</p>
 ---
 
-## 🚀 Projects
+## Projects
 
-### 📡 DAB SoOP Localization System
+### DAB SoOP Localization System
 Receiver-centric localization framework using **DAB signals of opportunity**.
 
-### 📶 RIS Secure Transmission Simulation
+### RIS Secure Transmission Simulation
 Simulation framework for **RIS-assisted secure wireless transmission** using artificial noise and element allocation.
 
-### 📊 SDR Signal Processing Tools
+### SDR Signal Processing Tools
 MATLAB / Python based signal processing tools for **wireless communication experiments**.
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
 
@@ -59,7 +63,7 @@ MATLAB / Python based signal processing tools for **wireless communication exper
 
 ---
 
-## 🧠 Research Interests
+## Research Interests
 
 - Wireless Communication Systems  
 - Reconfigurable Intelligent Surfaces (RIS)  
@@ -70,7 +74,7 @@ MATLAB / Python based signal processing tools for **wireless communication exper
 
 ---
 
-## 📄 Publications
+## Publications
 
 *(coming soon)*
 
@@ -79,13 +83,13 @@ MATLAB / Python based signal processing tools for **wireless communication exper
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: *(ekleyebilirsin)*
 - Email: *(istersen ekle)*
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## GitHub Contribution Snake
 
 ![snake gif](https://github.com/Furkanbeker/Furkanbeker/blob/output/github-contribution-grid-snake.svg)
