@@ -17,23 +17,18 @@ Wireless Communication Researcher • SDR • RIS • Localization
 ## Technologies & Tools
 
 <p>
-
 <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/GNU%20Radio-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
-
+<img src="https://img.shields.io/badge/GNU%20Radio-green?style=for-the-badge"/>
 </p>
 
 ### SDR Platforms
 
-<p>
-
-<img src="https://img.shields.io/badge/ADALM%20Pluto-SDR-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/USRP-SDR-darkgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireless%20Localization-TDOA-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RIS-Wireless%20Research-red?style=for-the-badge"/>
+- ADALM Pluto SDR
+- USRP SDR
+- Wideband RF Signal Processing
+- Wireless Channel Measurements
 
 </p>
 ---
