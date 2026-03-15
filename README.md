@@ -1,33 +1,91 @@
+<h1 align="center">Hi 👋, I'm Furkan Beker</h1>
 
-Hi, I'm Furkan
+<p align="center">
+Wireless Communication Researcher • SDR • RIS • Localization
+</p>
 
-Wireless Communication Researcher | SDR | RIS | Localization
+---
 
-Current Research
-- DAB-based SoOP Localization
-- RIS-assisted Secure Communications
-- SDR based experimental wireless systems
+## 🔬 Current Research
 
-Technologies
-- MATLAB
-- Python
-- GNU Radio
-- SDR (ADALM Pluto, USRP)
-- Docker
-- IoT Systems
+- 📡 **DAB-based Signals of Opportunity (SoOP) Localization**
+- 📶 **RIS-assisted Secure Wireless Communications**
+- 🛰 **SDR-based Experimental Wireless Systems**
+- 📍 **TDOA Localization with SDR platforms**
 
-Projects
-- DAB SoOP Localization System
-- RIS Secure Transmission Simulation
-- SDR Based Signal Processing Tools
+---
 
-GitHub Stats
+## 🛠 Technologies & Tools
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanbeker&show_icons=true)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange)
-![Python](https://img.shields.io/badge/Python-blue)
-![Linux](https://img.shields.io/badge/Linux-black)
-![Docker](https://img.shields.io/badge/Docker-blue)
+<p>
+<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/GNU%20Radio-green?style=for-the-badge"/>
+</p>
 
+### 📡 SDR Platforms
 
-github contribution snake animation
+- ADALM Pluto SDR
+- USRP SDR
+- Wideband RF Signal Processing
+- Wireless Channel Measurements
+
+---
+
+## 🚀 Projects
+
+### 📡 DAB SoOP Localization System
+Receiver-centric localization framework using **DAB signals of opportunity**.
+
+### 📶 RIS Secure Transmission Simulation
+Simulation framework for **RIS-assisted secure wireless transmission** using artificial noise and element allocation.
+
+### 📊 SDR Signal Processing Tools
+MATLAB / Python based signal processing tools for **wireless communication experiments**.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Furkanbeker&show_icons=true&theme=default"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanbeker&layout=compact"/>
+
+</p>
+
+---
+
+## 🧠 Research Interests
+
+- Wireless Communication Systems  
+- Reconfigurable Intelligent Surfaces (RIS)  
+- Signals of Opportunity Localization  
+- Software Defined Radio (SDR)  
+- Secure Wireless Communication  
+- Signal Processing  
+
+---
+
+## 📄 Publications
+
+*(coming soon)*
+
+- RIS-Assisted Secure Transmission with Artificial Noise (2026)
+- DAB-Based SoOP Localization for UAV Systems (2026)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: *(ekleyebilirsin)*
+- Email: *(istersen ekle)*
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/Furkanbeker/Furkanbeker/blob/output/github-contribution-grid-snake.svg)
