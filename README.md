@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Furkan Beker</h1>
+<h1 align="center"> Mustafa Furkan Beker</h1>
 
 <p align="center">
 Wireless Communication Researcher • SDR • RIS • NTN • Localization
