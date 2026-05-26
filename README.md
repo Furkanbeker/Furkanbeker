@@ -22,14 +22,13 @@ Wireless Communication Researcher • SDR • RIS • NTN • Localization
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/GNU%20Radio-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Verilog-red?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
 </p>
 
 ### SDR Platforms
 
 - ADALM Pluto SDR
 - USRP SDR
-- Wideband RF Signal Processing
+- RF Signal Processing
 - Wireless Channel Measurements
 
 ---
