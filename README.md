@@ -3,7 +3,7 @@
 Electrical & Electronics Engineer · M.Sc. Telecommunications Engineering @ Istanbul Technical University
 Wireless Communications · RF Systems · Signal Processing · SDR · Electronic Warfare
 
-[LinkedIn](https://www.linkedin.com/in/mfurkanbeker) · [GitHub](https://github.com/Furkanbeker) · [Email](mailto:mustafafurkanbeker@gmail.com) · Istanbul, Türkiye
+[LinkedIn](https://www.linkedin.com/in/mfurkanbeker) · [Scholar](https://scholar.google.com/citations?user=H-46RMMAAAAJ&hl=tr&oi=ao) · [Email](mailto:mustafafurkanbeker@gmail.com) · Istanbul, Türkiye
 
 ---
 
